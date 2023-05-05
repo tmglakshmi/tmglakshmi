@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lakshmi</h1>
-<h3 align="center">An aspiring engineer highly interested in front end development and data science</h3> 
+<h3 align="center"> Front-end developer</h3> 
 <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmglakshmi&label=Profile%20views&color=0e75b6&style=flat" alt="tmglakshmi" /> </p>
