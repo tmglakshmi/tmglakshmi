@@ -1,4 +1,4 @@
-### Hi there 👋
+
 [![MasterHead](https://f4n3x6c5.stackpathcdn.com/article/create-github-repository-and-add-newexisting-project-using-github-desktop/Images/github.png)](https://tmglakshmi.io)
 <h1 align="center">Hi 👋, I'm Lakshmi</h1>
 <h3 align="center">An aspiring engineer highly interested in front end development and data science</h3> 
